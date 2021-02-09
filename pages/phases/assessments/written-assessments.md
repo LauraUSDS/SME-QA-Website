@@ -17,7 +17,7 @@ Written assessments can be used before or after resume review. If your SMEs opt 
 
 ### Templates
 - The [written assessment guidance document](../../../toolkit/assessments/written-assessment-guidance.docx) has information about types of written assessments.
-- The [written assessment scoring sample document](../../../toolkit/assessments/written-assessment-guidance.docx) is a sample scoring template. You should expect to edit this heaviy based on what SMEs determine in job analysis.
+- The [written assessment scoring sample document](../../../toolkit/assessments/written-assessment-guidance.docx) is a sample scoring template. You should expect to edit this heavily based on what SMEs determine in job analysis.
 
 
 ### Items to check before sending a written assessment
@@ -26,7 +26,7 @@ Written assessments can be used before or after resume review. If your SMEs opt 
 - Have you expressed the due date of the assessment consistently, with time zone marked?
 - Have you clarified any formatting requirements for submission and what will happen if people submit via another format?
 - Have you added language about how you will treat extenuating circumstances (e.g. a COVID infection)?
-- Have you decided if you will provide SME feedback about a written assessment submission to applicants or not?
+- Have you decided if you will provide applicants with SME feedback about their written assessment submissions? (in other words, do you want to share information about why assessments failed?)
 
 #### Assessment readiness
 - Have you had one SME who has not worked on developing the written assessment attempt to take it in order to gauge difficulty level and time to complete?
